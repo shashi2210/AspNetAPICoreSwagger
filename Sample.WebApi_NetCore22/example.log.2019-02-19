@@ -1,0 +1,9 @@
+2019-02-19 20:49:13,722  INFO Microsoft.AspNetCore.Hosting.Internal.WebHost.? [?] - MESSAGE: Request starting HTTP/1.1 GET http://localhost:5000/api/values  
+ 2019-02-19 20:49:14,180  INFO Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.? [?] - MESSAGE: Route matched with {action = "Get", controller = "Values"}. Executing action NetCoreWebApp2._2.Controllers.ValuesController.Get (NetCoreWebApp2.2)
+ 2019-02-19 20:49:14,198 ERROR NetCoreWebApp2._2.Controllers.ValuesController.? [?] - MESSAGE: Test shashi
+ 2019-02-19 20:49:14,212  INFO Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.? [?] - MESSAGE: Executing action method NetCoreWebApp2._2.Controllers.ValuesController.Get (NetCoreWebApp2.2) - Validation state: Valid
+ 2019-02-19 20:49:14,228  INFO Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.? [?] - MESSAGE: Executed action method NetCoreWebApp2._2.Controllers.ValuesController.Get (NetCoreWebApp2.2), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 0.6769ms.
+ 2019-02-19 20:49:14,262  INFO Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor.? [?] - MESSAGE: Executing ObjectResult, writing value of type 'System.String[]'.
+ 2019-02-19 20:49:14,374  INFO Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.? [?] - MESSAGE: Executed action NetCoreWebApp2._2.Controllers.ValuesController.Get (NetCoreWebApp2.2) in 173.8295ms
+ 2019-02-19 20:49:14,415  INFO Microsoft.AspNetCore.Hosting.Internal.WebHost.? [?] - MESSAGE: Request finished in 705.3553ms 200 application/json; charset=utf-8
+ 

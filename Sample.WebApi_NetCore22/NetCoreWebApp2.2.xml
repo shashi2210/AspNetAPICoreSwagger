@@ -1,0 +1,80 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>NetCoreWebApp2.2</name>
+    </assembly>
+    <members>
+        <member name="T:NetCoreWebApp2._2.Controllers.User">
+            <summary>
+            User class
+            </summary>
+        </member>
+        <member name="P:NetCoreWebApp2._2.Controllers.User.Name">
+            <summary>
+            User Name
+            </summary>
+        </member>
+        <member name="P:NetCoreWebApp2._2.Controllers.User.Dob">
+            <summary>
+            User DOB
+            </summary>
+        </member>
+        <member name="T:NetCoreWebApp2._2.Controllers.UserController">
+            <summary>
+            User Controller
+            </summary>
+        </member>
+        <member name="M:NetCoreWebApp2._2.Controllers.UserController.Get">
+            <summary>
+            Get the list of user
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:NetCoreWebApp2._2.Controllers.UserController.GetUser(System.Int32)">
+            <summary>
+            Get use by ID
+            </summary>
+            <param name="id">USer id to be fetched</param>
+            <returns>User object</returns>
+        </member>
+        <member name="M:NetCoreWebApp2._2.Controllers.UserController.Post(NetCoreWebApp2._2.Controllers.User)">
+            <summary>
+            fh
+            </summary>
+            <param name="user"></param>
+            <returns></returns>
+        </member>
+        <member name="T:NetCoreWebApp2._2.Controllers.UserControllerV2">
+            <summary>
+            User Controller
+            </summary>
+        </member>
+        <member name="M:NetCoreWebApp2._2.Controllers.UserControllerV2.Get">
+            <summary>
+            Get the list of user
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:NetCoreWebApp2._2.Controllers.UserControllerV2.GetUser(System.Int32)">
+            <summary>
+            Get use by ID
+            </summary>
+            <param name="id">USer id to be fetched</param>
+            <returns>User object</returns>
+        </member>
+        <member name="M:NetCoreWebApp2._2.Controllers.UserControllerV2.DelUser(System.Int32)">
+            <summary>
+            Get use by ID
+            </summary>
+            <param name="id">USer id to be fetched</param>
+            <returns>User object</returns>
+        </member>
+        <member name="M:NetCoreWebApp2._2.Controllers.UserControllerV2.Post(NetCoreWebApp2._2.Controllers.User)">
+            <summary>
+            fh
+            </summary>
+            <param name="user"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

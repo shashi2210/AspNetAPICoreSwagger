@@ -1,0 +1,16 @@
+D:\Shashi\Microsoft.Extensions.Logging.Log4Net.AspNetCore-develop\Microsoft.Extensions.Logging.Log4Net.AspNetCore-develop\samples\Sample.WebApi_NetCore22\obj\Debug\netcoreapp2.2\NetCoreWebApp2.2.csprojAssemblyReference.cache
+D:\Shashi\Microsoft.Extensions.Logging.Log4Net.AspNetCore-develop\Microsoft.Extensions.Logging.Log4Net.AspNetCore-develop\samples\Sample.WebApi_NetCore22\obj\Debug\netcoreapp2.2\NetCoreWebApp2.2.csproj.CoreCompileInputs.cache
+D:\Shashi\Microsoft.Extensions.Logging.Log4Net.AspNetCore-develop\Microsoft.Extensions.Logging.Log4Net.AspNetCore-develop\samples\Sample.WebApi_NetCore22\obj\Debug\netcoreapp2.2\NetCoreWebApp2.2.RazorAssemblyInfo.cache
+D:\Shashi\Microsoft.Extensions.Logging.Log4Net.AspNetCore-develop\Microsoft.Extensions.Logging.Log4Net.AspNetCore-develop\samples\Sample.WebApi_NetCore22\obj\Debug\netcoreapp2.2\NetCoreWebApp2.2.RazorAssemblyInfo.cs
+D:\Shashi\Microsoft.Extensions.Logging.Log4Net.AspNetCore-develop\Microsoft.Extensions.Logging.Log4Net.AspNetCore-develop\samples\Sample.WebApi_NetCore22\obj\Debug\netcoreapp2.2\NetCoreWebApp2.2.AssemblyInfoInputs.cache
+D:\Shashi\Microsoft.Extensions.Logging.Log4Net.AspNetCore-develop\Microsoft.Extensions.Logging.Log4Net.AspNetCore-develop\samples\Sample.WebApi_NetCore22\obj\Debug\netcoreapp2.2\NetCoreWebApp2.2.AssemblyInfo.cs
+D:\Shashi\Microsoft.Extensions.Logging.Log4Net.AspNetCore-develop\Microsoft.Extensions.Logging.Log4Net.AspNetCore-develop\samples\Sample.WebApi_NetCore22\bin\Debug\netcoreapp2.2\log4net.config
+D:\Shashi\Microsoft.Extensions.Logging.Log4Net.AspNetCore-develop\Microsoft.Extensions.Logging.Log4Net.AspNetCore-develop\samples\Sample.WebApi_NetCore22\bin\Debug\netcoreapp2.2\NetCoreWebApp2.2.deps.json
+D:\Shashi\Microsoft.Extensions.Logging.Log4Net.AspNetCore-develop\Microsoft.Extensions.Logging.Log4Net.AspNetCore-develop\samples\Sample.WebApi_NetCore22\bin\Debug\netcoreapp2.2\NetCoreWebApp2.2.runtimeconfig.json
+D:\Shashi\Microsoft.Extensions.Logging.Log4Net.AspNetCore-develop\Microsoft.Extensions.Logging.Log4Net.AspNetCore-develop\samples\Sample.WebApi_NetCore22\bin\Debug\netcoreapp2.2\NetCoreWebApp2.2.runtimeconfig.dev.json
+D:\Shashi\Microsoft.Extensions.Logging.Log4Net.AspNetCore-develop\Microsoft.Extensions.Logging.Log4Net.AspNetCore-develop\samples\Sample.WebApi_NetCore22\bin\Debug\netcoreapp2.2\NetCoreWebApp2.2.dll
+D:\Shashi\Microsoft.Extensions.Logging.Log4Net.AspNetCore-develop\Microsoft.Extensions.Logging.Log4Net.AspNetCore-develop\samples\Sample.WebApi_NetCore22\obj\Debug\netcoreapp2.2\NetCoreWebApp2.2.RazorTargetAssemblyInfo.cache
+D:\Shashi\Microsoft.Extensions.Logging.Log4Net.AspNetCore-develop\Microsoft.Extensions.Logging.Log4Net.AspNetCore-develop\samples\Sample.WebApi_NetCore22\bin\Debug\netcoreapp2.2\NetCoreWebApp2.2.pdb
+D:\Shashi\Microsoft.Extensions.Logging.Log4Net.AspNetCore-develop\Microsoft.Extensions.Logging.Log4Net.AspNetCore-develop\samples\Sample.WebApi_NetCore22\obj\Debug\netcoreapp2.2\NetCoreWebApp2.2.dll
+D:\Shashi\Microsoft.Extensions.Logging.Log4Net.AspNetCore-develop\Microsoft.Extensions.Logging.Log4Net.AspNetCore-develop\samples\Sample.WebApi_NetCore22\obj\Debug\netcoreapp2.2\NetCoreWebApp2.2.pdb
+D:\Shashi\Microsoft.Extensions.Logging.Log4Net.AspNetCore-develop\Microsoft.Extensions.Logging.Log4Net.AspNetCore-develop\samples\Sample.WebApi_NetCore22\bin\Debug\netcoreapp2.2\NetCoreWebApp2.2.xml
